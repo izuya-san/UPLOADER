@@ -22,7 +22,7 @@ You can now send a new URL."""
 
 /help for more details."""
     FORMAT_SELECTION = "👇𝗦𝗲𝗹𝗲𝗰𝘁 𝗔𝗻𝗱 𝗖𝗵𝗼𝘀𝗲 𝗬𝗼𝘂𝗿 𝗙𝗼𝗿𝗺𝗮𝘁👇"
-    SET_CUSTOM_USERNAME_PASSWORD = """\n👮‍♂ Powered By :</b> @LISA_FAN_LK"""
+    SET_CUSTOM_USERNAME_PASSWORD = """\n👮‍♂"""
     DOWNLOAD_START = "📥 DOWNLOADING..."
     UPLOAD_START = "📤 UPLOADING..."
     RCHD_TG_API_LIMIT = "<b>Downloaded in:</b> {} seconds.\n<b>Detected file size:</b> {}.\n\nSorry. But, I cannot upload files greater than 2GB due to Telegram API limitations 😕."
@@ -49,17 +49,17 @@ You can now send a new URL."""
 
 6. Comments /about /viewthumbnail /info
 """
-    ABOUT_TEXT = """<b>🔘 My Name :</b> URL Uploader Bot V2 🚀
+    ABOUT_TEXT = """<b>🔘 My Name :</b> Anicade Uploader ⚡
 
-<b>🔘 Channel :</b> <a href="https://t.me/NT_BOT_CHANNEL">NT BOT</a>
+<b>🔘 Channel :</b> <a href="https://t.me/Anicade">NT BOT</a>
 
-<b>🔘 Source :</b> <a href="https://github.com/LISA-KOREA/UPLOADER-BOT-V2">Click Here</a>
+<b>🔘 Source :</b> <a href="https://github.com/KAC-CHAN">Click Here</a>
 
 <b>🔘 Language :</b> <a href="https://www.python.org/">Python 3.10.7</a>
 
 <b>🔘 Framework :</b> <a href="https://docs.pyrogram.org/">Pyrogram 1.4.16</a>
 
-<b>🔘 Creater :</b> @LISA_FAN_LK"""
+<b>🔘 Creater :</b> @izuya"""
 
     REPLY_TO_MEDIA_ALBUM_TO_GEN_THUMB = "Send your thumbnail pic to generate custom thumbail."
     ERR_ONLY_TWO_MEDIA_IN_ALBUM = "Media Album should contain only two photos. Please re-send the media album, and then try again, or send only two photos in an album."
