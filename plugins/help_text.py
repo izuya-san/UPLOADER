@@ -72,7 +72,7 @@ async def help_user(bot, update):
         reply_markup=InlineKeyboardMarkup(
         [
           [
-          InlineKeyboardButton('📍 JOIN CHANNEL 📍', url='https://t.me/Anicade'),
+          InlineKeyboardButton('🔥 JOIN CHANNEL 🔥', url='https://t.me/Anicade'),
           ]
         ]
        ),
@@ -97,7 +97,7 @@ async def about(bot, update):
         reply_markup=InlineKeyboardMarkup(
         [
           [
-          InlineKeyboardButton('📍 JOIN CHANNEL 📍', url='https://t.me/Anicade'),
+          InlineKeyboardButton('🔥 JOIN CHANNEL 🔥', url='https://t.me/Anicade'),
           ]
         ]
        ),
@@ -114,11 +114,11 @@ async def start(bot, update):
         reply_markup=InlineKeyboardMarkup(
         [
           [
-          InlineKeyboardButton('📍 CHANNEL', url='https://t.me/Anicade'),
+          InlineKeyboardButton('🔥 CHANNEL', url='https://t.me/Anicade'),
       ],
       [
           InlineKeyboardButton('🐈‍⬛ DEVELOPER', url='https://t.me/izuya'),
-          InlineKeyboardButton('🌻 SOURCE', url='https://github.com/KAC-CHAN'),
+          InlineKeyboardButton('🌻 Main Group', url='https://t.meAnicademia'),
           ]
         ]
       ),
