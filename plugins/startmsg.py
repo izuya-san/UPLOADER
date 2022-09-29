@@ -51,7 +51,7 @@ You can now send a new URL."""
 """
     ABOUT_TEXT = """<b>🔘 My Name :</b> Anicade Uploader ⚡
 
-<b>🔘 Channel :</b> <a href="https://t.me/Anicade">NT BOT</a>
+<b>🔘 Channel :</b> <a href="https://t.me/Anicade">Anicade</a>
 
 <b>🔘 Source :</b> <a href="https://github.com/KAC-CHAN">Click Here</a>
 
