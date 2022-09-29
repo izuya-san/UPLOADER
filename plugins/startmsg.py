@@ -10,7 +10,7 @@ I'm Url Uploader Bot 🚀
 Click /help for more details...."""
     ADD_CAPTION_HELP = """Select an uploaded file/video or forward me <b>Any Telegram File</b> and just write the text you want to be on the file <b>as a reply to the file</b> and the text you wrote will be attached as the caption! 🤩
     
-Example: <a href='https://te.legra.ph/file/ecf5297246c5fb574d1a0.jpg'>See This!</a> 👇"""
+Example: <a href='https://telegra.ph/file/c5d107c182af1c7d2d1f4.jpg'>See This!</a> 👇"""
 
     INCORRECT_REQUEST = """Please make sure you submit your request correctly."""
     WAIT_PROCESS_FINISH = """Please wait for your current file to finish downloading before sending more links!
