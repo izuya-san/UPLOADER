@@ -2,11 +2,11 @@ import os
 
 class Config(object):
     
-    BOT_TOKEN = os.environ.get("BOT_TOKEN", "")
+    BOT_TOKEN = os.environ.get("BOT_TOKEN", "5702183929:AAHzFf9Ha8-YhZAGvTGlJ_kjAnH9dCt1FW0")
     
-    API_ID = int(os.environ.get("API_ID", ))
+    API_ID = int(os.environ.get("API_ID", "18791409")
     
-    API_HASH = os.environ.get("API_HASH", "")
+    API_HASH = os.environ.get("API_HASH", "389c73d03dc1e98d973a125065d67b3d")
     
     DOWNLOAD_LOCATION = "./DOWNLOADS"
     
@@ -28,6 +28,6 @@ class Config(object):
 
     SESSION_NAME = "AnicadeUploaderBot"
     
-    DATABASE_URL = os.environ.get("DATABASE_URL", "y")
+    DATABASE_URL = os.environ.get("DATABASE_URL", "mongodb+srv://kacbusiness:hrituzee123@kacbusiness.dahr62x.mongodb.net/?retryWrites=true&w=majority")
 
     MAX_RESULTS = "50"
