@@ -1,6 +1,6 @@
 FROM python:3.10-slim-buster
 
-WORKDIR /root/UPLOADER-BOT-V2
+WORKDIR /root/UPLOADER
 
 COPY . .
 
